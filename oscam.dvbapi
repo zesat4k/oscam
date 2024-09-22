@@ -1,0 +1,735 @@
+### hispasat 30w-5/30w-6 @ 30Â° west
+p: 1802:000000
+p: 1814:000000
+p: 1814:005211
+p: 1814:005221
+p: 1814:005225
+p: 1814:000001
+p: 1814:000002
+p: 1814:000003
+p: 1814:000004
+p: 1814:000005
+p: 1814:000006
+p: 1814:000007
+p: 1814:000008
+p: 1814:000009
+i: 0100:005221
+### nilesat 201 @ 7Â° west & eutelsat 7 west a @ 7.3Â° west
+p: 0604:000000
+p: 0604:000000:02c2:0136:00cc ;art aflam
+p: 0604:000000:02c4:0138:00cd ;art aflam2
+p: 0604:000000:02c5:013a:009c ;art cinema
+p: 0604:000000:030c:013b:0020 ;hekayat kaman hd
+p: 0604:000000:02bf:0130:0020 ;art hekayat
+p: 0604:000000:02c1:0134:0020 ;art hekayat2
+### fransat on eutelsat 5 west b at 5.0Â°w
+p: 0500:041950
+p: 0500:041960
+### amos 3/7 @ 4Â° west
+p: 090d:000000
+### intelsat 10-02 - thor 5/6/7 @ 1Â° west
+p: 1880:000000
+p: 0d97:000004
+p: 1815:000000
+p: 1882:000000
+p: 0653:000000
+p: 0653:ffffff
+### bulgariasat-1 @ 1.9Â° east
+### neosat - polaris ###
+m: 4aee:000001 4aee:000000; #1
+m: 4aee:000002 4aee:000000; #2
+m: 4aee:000003 4aee:000000; #3
+m: 5581:000000 4aee:000000; #4
+p: 4aee:000000 ;polaris 1.9Â°e
+### eutelsat 9b @ 9Â° east
+#descovery
+#kabel kiosk vip
+#dmtv
+### eutelsat hot bird 13b/13c/13e @ 13Â° east
+## nc+ soon priority update sids ch stable
+p: 1884:000000
+p: 0100:000068
+p: 0b01:000000
+p: 1813:000068
+p: 1813:000000
+p: 1861:000000
+p: 1803:000000
+i: 0500:032a00
+p: 0500:050f00
+p: 1884:000000:070f #|eleven sports 1 4k|||nc+ (nagra merlin)
+p: 1884:000000:13f3 #|eleven sports 1 hd|||nc+ (nagra merlin)
+p: 1884:000000:13f5 #|eleven sports 2 hd|||nc+ (nagra merlin)
+p: 1884:000000:13f8 #|eleven sports 3 hd|||nc+ (nagra merlin)
+p: 1884:000000:32ce #|eleven sports 4 hd|||nc+ (nagra merlin)
+i: 0100:000000:070f #|eleven sports 1 4k|||nc+ (nagra merlin)
+i: 0100:000000:13f3 #|eleven sports 1 hd|||nc+ (nagra merlin)
+i: 0100:000000:13f5 #|eleven sports 2 hd|||nc+ (nagra merlin)
+i: 0100:000000:13f8 #|eleven sports 3 hd|||nc+ (nagra merlin)
+p: 0100:000000:32ce #|eleven sports 4 hd|||nc+ (nagra merlin)
+i: 0b01:000000:070f #|eleven sports 1 4k|||nc+ (nagra merlin)
+i: 0b01:000000:13f3 #|eleven sports 1 hd|||nc+ (nagra merlin)
+i: 0b01:000000:13f5 #|eleven sports 2 hd|||nc+ (nagra merlin)
+i: 0b01:000000:13f8 #|eleven sports 3 hd|||nc+ (nagra merlin)
+p: 0b01:000000:32ce #|eleven sports 4 hd|||nc+ (nagra merlin)
+i: 1813:000000:070f #|eleven sports 1 4k|||nc+ (nagra merlin)
+i: 1813:000068:13f3 #|eleven sports 1 hd|||nc+ (nagra merlin)
+i: 1813:000068:13f5 #|eleven sports 2 hd|||nc+ (nagra merlin)
+i: 1813:000068:13f8 #|eleven sports 3 hd|||nc+ (nagra merlin)
+p: 1813:000068:32ce #|eleven sports 4 hd|||nc+ (nagra merlin)
+i: 1861:000000:070f #|eleven sports 1 4k|||nc+ (nagra merlin)
+i: 1861:000000:13f3 #|eleven sports 1 hd|||nc+ (nagra merlin)
+i: 1861:000000:13f5 #|eleven sports 2 hd|||nc+ (nagra merlin)
+i: 1861:000000:13f8 #|eleven sports 3 hd|||nc+ (nagra merlin)
+p: 1861:000000:32ce #|eleven sports 4 hd|||nc+ (nagra merlin)
+i: 1803:000000:070f #|eleven sports 1 4k|||nc+ (nagra merlin)
+i: 1803:000000:13f3 #|eleven sports 1 hd|||nc+ (nagra merlin)
+i: 1803:000000:13f5 #|eleven sports 2 hd|||nc+ (nagra merlin)
+i: 1803:000000:13f8 #|eleven sports 3 hd|||nc+ (nagra merlin)
+p: 1803:000000:32ce #|eleven sports 4 hd|||nc+ (nagra merlin)
+### eutelsat 16a @ 16Â° east
+p: 1830:000000
+p: 0b00:000000
+p: 0629:000000
+p: 091f:000000
+### astra 1kr/1l/1m/1n @ 19.2Â° east
+p: 098d:000000
+p: 0500:030b00
+i: 1843:000000
+i: 1860:000000
+i: 098c:000000
+i: 09c4:000000
+i: 186a:000000
+i: 186d:000000
+i: 1842:000000
+i: 4b64:000000
+i: 4af4:000000
+i: 0500:051900
+i: 1819:00006d
+###( caid 01830 )
+p: 1830:000000:0002 # uhd1
+p: 1830:000000:10cc # sportdigital fuÃŸball hd
+p: 1830:000001:10d1 # clipmyhorse.tv|tv||ses
+p: 1830:000000:10cd # sport1+ hd
+p: 1830:000000:10cf # edgesport hd
+p: 1830:000000:10d0 # waidwerk hd
+p: 1830:000000:1392 # insight tv hd
+p: 1830:000000:1393 # insight tv hd int
+p: 1830:000000:1519 # tele5 hd
+p: 1830:000000:151a # dmax hd|tv
+p: 1830:000000:157c # disney channel hd
+p: 1830:000000:157f # deluxe music hd
+p: 1830:000000:1581 # sport 1 hd
+p: 1830:000000:2774 # tlc hd
+p: 1830:000000:2777 # mtv hd
+p: 1830:000000:2968 # xplore|tv
+p: 1830:000000:2969 # hip trips!|tv
+p: 1830:000000:296a # one terra|tv
+p: 1830:000000:296b # deluxe rock|tv
+p: 1830:000000:296c # deluxe rap|tv
+p: 1830:000000:296d # deluxe dance by kondor|tv
+p: 1830:000000:296e # deluxe flashback|tv
+p: 1830:000000:296f # just cooking|tv
+p: 1830:000000:29cc # just fishing|tv
+p: 1830:000000:29d0 # crime time|tv
+p: 1830:000000:29d1 # serien+|tv
+p: 1830:000000:29d2 # deluxe lounge|tv
+p: 1830:000000:29d3 # red adventure|tv
+p: 1830:000000:2e9b # super rtl hd|tv
+p: 1830:000000:2eaf # nitro hd
+p: 1830:000000:307a # rtl uhd
+p: 1830:000000:30d4 # sat.1 gold hd
+p: 1830:000000:30d6 # eurosport 1 hd
+p: 1830:000000:5274 # welt hd
+p: 1830:000000:6fec # comedy central hd
+p: 1830:000000:ef10 # rtl hd
+p: 1830:000000:ef11 # vox hd
+p: 1830:000000:ef14 # n-tv hd
+p: 1830:000000:ef15 # rtl2 hd
+p: 1830:000000:ef16 # rtl up hd
+p: 1830:000000:ef17 # hdplus|voxup hd
+p: 1830:000000:ef74 # sat.1 hd
+p: 1830:000000:ef75 # prosieben hd
+p: 1830:000000:ef76 # kabel eins hd
+p: 1830:000000:ef77 # sixx hd
+p: 1830:000000:ef78 # prosieben maxx hd
+p: 1830:000000:ef79 # kabel eins doku hd
+#( caid 0d98 )
+p: 0d98
+p: 0d98:000004:14b8 #puls 24
+#  hd+ caid 098d ignore
+i: 098d:000000:0002 # uhd1
+i: 098d:000000:10cc # sportdigital fuÃŸball hd
+i: 098d:000001:10d1 # clipmyhorse.tv|tv||ses
+i: 098d:000000:10cd # sport1+ hd
+i: 098d:000000:10cf # edgesport hd
+i: 098d:000000:10d0 # waidwerk hd
+i: 098d:000000:1392 # insight tv hd
+i: 098d:000000:1393 # insight tv hd int
+i: 098d:000000:1519 # tele5 hd
+i: 098d:000000:151a # dmax hd|tv
+i: 098d:000000:157c # disney channel hd
+i: 098d:000000:157f # deluxe music hd
+i: 098d:000000:1581 # sport 1 hd
+i: 098d:000000:2774 # tlc hd
+i: 098d:000000:2777 # mtv hd
+i: 098d:000000:2968 # xplore|tv
+i: 098d:000000:2969 # hip trips!|tv
+i: 098d:000000:296a #one terra|tv
+i: 098d:000000:296b # deluxe rock|tv
+i: 098d:000000:296c # deluxe rap|tv
+i: 098d:000000:296d # deluxe dance by kondor|tv
+i: 098d:000000:296e # deluxe flashback|tv
+i: 098d:000000:296f # just cooking|tv
+i: 098d:000000:29cc # just fishing|tv
+i: 098d:000000:29d0 # crime time|tv
+i: 098d:000000:29d1 # serien+|tv
+i: 098d:000000:29d2 # deluxe lounge|tv
+i: 098d:000000:29d3 # red adventure|tv
+i: 098d:000000:2e9b # super rtl hd|tv
+i: 098d:000000:2eaf # nitro hd
+i: 098d:000000:307a # rtl uhd
+i: 098d:000000:30d4 # sat.1 gold hd
+i: 098d:000000:30d6 # eurosport 1 hd
+i: 098d:000000:5274 # welt hd
+i: 098d:000000:6fec # comedy central hd
+i: 098d:000000:ef10 # rtl hd
+i: 098d:000000:ef11 # vox hd
+i: 098d:000000:ef14 # n-tv hd
+i: 098d:000000:ef15 # rtl2 hd
+i: 098d:000000:ef16 # rtl up hd
+i: 098d:000000:ef17 # hdplus|voxup hd
+i: 098d:000000:ef74 # sat.1 hd
+i: 098d:000000:ef75 # prosieben hd
+i: 098d:000000:ef76 # kabel eins hd
+i: 098d:000000:ef77 # sixx hd
+i: 098d:000000:ef78 # prosieben maxx hd
+i: 098d:000000:ef79 # kabel eins doku hd
+i: 098d:000000:14b8:::force
+#hd+ caid 0650 ignore
+i: 0650:000000:ef14 #n-tv hd
+i: 0650:000000:14b8:::force
+#caid 0648 ignore
+i: 0648:000000:14b8:::force
+#caid 0d95 ignore
+i: 0d95:000004:14b8
+### astra 3b @ 23.5Â° east
+p: 0100:00006a
+p: 0100:000000
+p: 1817:00006a
+p: 1817:000000
+p: 0624:000000
+p: 0d96:000004
+### astra 5b @ 31.5Â° east
+p: 0500:041200
+### eutelsat 36e
+p: 0500:050a00
+### hellas sat 3 @ 39Â° east
+p: 092f:000000
+p: 0609:000000
+### tÃ¼rksat 3a/4a @ 42Â° east
+p: 092b:000000
+### azerspace-2-intelsat 45e
+p: 09bd:000000
+### 52Â°big bang tv
+### intelsat 85e telekarta
+# tntsat local 19.2e priority
+p: 0500:030b00:245a
+p: 0500:030b00:245d
+p: 0500:030b00:21fd
+p: 0500:030b00:2330
+p: 0500:030b00:2011
+p: 0500:030b00:2075
+p: 0500:030b00:2457
+p: 0500:030b00:2076
+p: 0500:030b00:2f71
+p: 0500:030b00:2334
+p: 0500:030b00:2458
+p: 0500:030b00:2335
+p: 0500:030b00:21ab
+p: 0500:030b00:2f6c
+p: 0500:030b00:2460
+p: 0500:030b00:2014
+p: 0500:030b00:2015
+p: 0500:030b00:21ff
+p: 0500:030b00:2081
+p: 0500:030b00:220d
+p: 0500:030b00:206d
+p: 0500:030b00:2083
+p: 098d:000000 # sky
+p: 1813:000068 # nc
+p: 1813:000068:37b1
+p: 1813:000068:0c1f
+p: 1884:000000 #nc+
+p: 1884:000000:32de # canal sport 1
+p: 1884:000000:13ee # canal sport 2
+p: 1884:000000:3aa0 # canal sport 3
+p: 1884:000000:3aa1 # canal sport 4
+p: 1884:000000:3ab9 # canal sport 5
+p: 0500:060a00 # ntv+36e
+p: 0500:060c00 # ntv+36e
+p: 0500:050c00 # ntv+56e
+p: 0500:051a00 # rtvi
+p: 0500:051a10 # rtvi
+p: 0500:051a20 # rtvi
+p: 0500:051a40 # rtvi
+p: 0500:042300 # rtvi
+p: 0500:041200 # trk
+p: 0500:030b00 # tnt
+p: 0500:042820 # biss tv
+p: 0500:41f00  # eurosport2
+p: 092b:000000 # ds
+p: 1010:000000 # tanberg
+p: 0500:051e00 # xxx
+p: 0500:043800 # xxx
+p: 0500:050f00 # xxx
+p: 0500:040810 # srg_ssr
+p: 0500:030b00 # tnt 19
+p: 0500:030b00:2460|tntsat|tf 1
+p: 0500:030b00:232b|tntsat|tf1 sÃ£Â©ries films
+p: 0500:030b00:245a|tntsat|france 2 hd
+p: 0500:030b00:245d|tntsat|france 3 sat hd
+p: 0500:030b00:21fd|tntsat|france 4 hd
+p: 0500:030b00:2330l|tntsat|france 5 hd
+p: 0500:030b00:2457|tntsat|m6 hd
+p: 0500:030b00:1f4b|tntsat|6ter
+p: 0500:030b00:2f6c|tntsat|cherie 25
+p: 0500:030b00:2f6d|tntsat|cherie 25
+p: 0500:030b00:2f71|tntsat|nrj 12 hd
+p: 0500:030b00:2f72|tntsat|nrj 12
+p: 0500:030b00:2014|tntsat|tfx
+p: 0500:030b00:2015|tntsat|tmc hd
+p: 0500:030b00:2076|tntsat|lÃ¢Â´equipe tv
+p: 0500:030b00:2458|tntsat|w9 hd
+p: 0500:030b00:2334|tntsat|c8 hd
+p: 0500:030b00:2335|tntsat|cstar hd
+p: 0500:030b00:2011|tntsat|rmc dÃ£Â©couverte
+p: 0500:030b00:2075|tntsat|rmc story
+p: 0500:030b00:2081|tntsat|arte hd
+p: 0500:030b00:2083|tntsat|gulli
+p: 0500:030b00:2654|tntsat|via stella
+p: 0500:030b00:206d|tntsat|bfm tv hd
+p: 0500:030b00:1f45|tntsat|franceinfo: hd
+p: 1819:00006d # telesat
+p: 1811:003311 # csat 19
+p: 0940:000000 # viasat
+p: 091f:000000 # total tv
+p: 092f:000000 # dolcetv
+p: 0963:000000 # sky_uk
+p: 0624:000000 # sky link
+p: 0628:000000 #
+p: 098e:000000 # kabel
+p: 0d95:000004 # orf
+p: 0d95:000008 # orf
+p: 0d95:00000c # orf
+p: 0d95:000010 # orf
+p: 0d96:000000 # sky link
+p: 0d96:000004 # sky link
+p: 0d98:000000
+p: 0d98:000004:1194 # orf
+p: 0d98:000004:1013
+p: 0d98:000004:101d
+p: 0d98:000004:100a
+p: 0d98:000004:14c1
+p: 0d98:000000:14c2
+p: 0d98:000004
+p: 1843:000000 # hd+
+p: 1830:000000 # hd+
+p: 1802:000000 #zon_tv
+p: 1803:000000 #polsat
+p: 1803:000000:3abd
+p: 1803:000000:13f3 # eleven sport 1
+p: 1803:000000:13f5 # eleven sport 2
+p: 1803:000000:13f8 # eleven sport 3
+p: 1803:000000:32ce # eleven sport 4
+p: 1805:000000 #italy
+p: 1805:008c11 #italy
+p: 1805:008d11 #italy
+p: 0b01:000000 #polsat
+p: 0b01:000000:08a2
+p: 0b01:000000:012e
+p: 0b01:000000:012f
+p: 0b01:000000:0131
+p: 0b01:000000:013a
+p: 0b01:000000:3a99
+p: 0b00:000000 #nordic
+p: 0b00:0000c0 #digitv
+p: 0b00:0000cc #digitv
+p: 0b00:0000c4 #digitv
+p: 0b00:0000c8 #digitv
+p: 1810:000000 #movistar
+p: 1818:00006c #tv valender
+p: 1834:000000 #kabel
+p: 1841:000000 #virgin cable
+p: 1841:005b01 #virgin cable
+p: 1841:005a01 #virgin cable
+p: 1841:005b02 #virgin cable
+p: 1841:005b03 #virgin cable
+p: 183d:000000 #tivusat
+p: 183e:000000 #tivusat
+p: 1838:000000 #untiy media
+p: 1838:000401 #untiy media
+p: 1838:001103 #untiy media
+p: 09c7:000000 #kabel detsh
+p: 09c7:000001 #kabel detsh
+p: 09c7:000002 #kabel detsh
+p: 09c7:000003 #kabel detsh
+p: 09c7:000004 #kabel detsh
+p: 093e:000000 #viasat
+p: 0940:000000 #viasat
+p: 090f:000000 #viasat
+p: 0b02:000000 #focus
+p: 0baa:000000 #austriasat
+p: 0629:000000 #pink
+p: 0b0f:000000 #xtra
+p: 0100:000068 #nc+
+p: 0100:00006a #canal digital
+p: 0100:00006c #canal digital
+p: 0100:00006d #teleset
+p: 0100:00006d:012d
+p: 0100:004106 #taquilla
+p: 0100:004108 #taquilla
+p: 0100:005001 #taquilla
+p: 4aee:000000,000001 #bulsatcom
+p: 5581:000000 #bulsatcom
+#-[t-ht]--#
+p: 1830:000000:0014 # rtl living. [t-ht]
+p: 1830:000000:0015 # rtl kockica. [t-ht]
+p: 1830:000000:001e # national geographic channel. [t-ht]
+p: 1830:000000:001f # natgeo wild. [t-ht]
+p: 1830:000000:0021 # history channel. [t-ht]
+p: 1830:000000:0022 # vivid tv. [t-ht]
+p: 1830:000000:0029 # m1 gold. [t-ht]
+p: 1830:000000:002b # woman. [t-ht]
+p: 1830:000000:002c # bbc earth. [t-ht]
+p: 1830:000000:002d # history 2. [t-ht]
+p: 1830:000000:002f # cinestar fantasy [t-ht]
+p: 1830:000000:0030 # nickelodeon hr. [t-ht]
+p: 1830:000000:0032 # vavoom. [t-ht]
+p: 1830:000000:0033 # boomerang tv.[t-ht]
+p: 1830:000000:0034 # baby tv. [t-ht]
+p: 1830:000000:0035 # cartoon network. [t-ht]
+p: 1830:000000:0038 # pickbox tv. [t-ht]
+p: 1830:000000:003c # epic drama. [t-ht]
+p: 1830:000000:003d # fox life. [t-ht]
+p: 1830:000000:003e # fox crime. [t-ht]
+p: 1830:000000:0040 # axn. [t-ht]
+p: 1830:000000:0046 # hntv. [t-ht]
+p: 1830:000000:0049 # nickjr cro. [t-ht]
+p: 1830:000000:0050 # arena 2 hd. [t-ht]
+p: 1830:000000:0056 # sportklub 1 hd. [t-ht]
+p: 1830:000000:0059 # viasat nature. [t-ht]
+p: 1830:000000:005a # sportklub golf. [t-ht]
+p: 1830:000000:005b # vivid red. [t-ht]
+p: 1830:000000:005d # extreme sports. [t-ht]
+p: 1830:000000:005f # sportklub 2 hd. [t-ht]
+p: 1830:000000:0060 # sportklub 3 hd. [t-ht]
+p: 1830:000000:0064 # hrt 2. [t-ht]
+p: 1830:000000:0066 # 24 kitchen. [t-ht]
+p: 1830:000000:006c # arena 3 hd. [t-ht]
+p: 1830:000000:0078 # cmc - croatian music channel. [t-ht]
+p: 1830:000000:007a # mtv dance. [t-ht]
+p: 1830:000000:007b # mtv hits. [t-ht]
+p: 1830:000000:007c # djazz.tv. [t-ht]
+p: 1830:000000:007e # vh1 classic. [t-ht]
+p: 1830:000000:007f # arena 6 hd. [t-ht]
+p: 1830:000000:0081 # da vinci learning. [t-ht]
+p: 1830:000000:008c # cnn. [t-ht]
+p: 1830:000000:0096 # jugoton tv. [t-ht]
+p: 1830:000000:0098 # fox movies. [t-ht]
+p: 1830:000000:0099 # sportklub start. [t-ht]
+p: 1830:000000:00a6 # rtl passion. [t-ht]
+p: 1830:000000:00be # arena 5 hd. [t-ht]
+p: 1830:000000:00bf # bluehustler. [t-ht]
+p: 1830:000000:00c0 # rtl crime. [t-ht]
+p: 1830:000000:00c1 # vivid touch. [t-ht]
+p: 1830:000000:00c3 # privatetv. [t-ht]
+p: 1830:000000:00c5 # fox. [t-ht]
+p: 1830:000000:00c6 # hrt 3. [t-ht]
+p: 1830:000000:00d8 # klasik tv. [t-ht]
+p: 1830:000000:00d9 # arena 4 hd. [t-ht]
+p: 1830:000000:0123 # rtl hd. [t-ht]
+p: 1830:000000:0124 # no**a tv. [t-ht]
+p: 1830:000000:0125 # rtl2. [t-ht]
+p: 1830:000000:0126 # doma tv. [t-ht]
+p: 1830:000000:0127 # hrt 1. [t-ht]
+p: 1830:000000:0128 # max tv info [t-ht]
+p: 1830:000000:012d # mini tv. [t-ht]
+p: 1830:000000:019c # arena 1 hd. [t-ht]
+p: 1830:000000:0300 # brazzers tv [t-ht]
+p: 1830:000000:0550 # comedy central [t-ht]
+p: 1830:000000:0551 # cinestar tv 1 hrv [t-ht]
+p: 1830:000000:0554 # cinestar premiere 1 hd [t-ht]
+p: 1830:000000:0556 # cinestar premiere 2 hd [t-ht]
+p: 1830:000000:0557 # crime & invest. [t-ht]
+p: 1830:000000:067e # no**a hr hd. [t-ht]
+p: 1830:000000:0686 # lov i ribolov [t-ht]
+p: 1830:000000:06e8 # n1 hrv [t-ht]
+p: 1830:000000:0712 # hustler tv. [t-ht]
+p: 1830:000000:0715 # cbs reality [t-ht]
+p: 1830:000000:071b # cinestar tv action and thriller [t-ht]
+p: 1830:000000:0720 # viasat explore [t-ht]
+p: 1830:000000:0723 # kino tv [t-ht]
+p: 1830:000000:0726 # viasat history [t-ht]
+p: 1830:000000:0729 # vh1 [t-ht]
+p: 1830:000000:0738 # e! [t-ht]
+p: 1830:000000:0784 # hbo hd [t-ht]
+p: 1830:000000:0785 # hbo 2 hd [t-ht]
+p: 1830:000000:0786 # cinemax hd [t-ht]
+p: 1830:000000:0787 # cinemax 2 hd [t-ht]
+p: 1830:000000:0796 # hbo 3 hd [t-ht]
+p: 1830:000000:01ae #
+#kontinent
+p:0602:000042
+p:0602:000011
+p:0602:000027
+p:0602:00002f
+p:0602:00008e
+p:0602:00008d
+p:0602:000091
+p:0602:00000b
+p:0602:00004c
+#telekarta
+p:0b01:000000
+#telekarta,thor
+i: 092b:000000
+i: 0b00:000000
+i: 4aeb:000000
+i: 0500:023100
+i: 0500:025800
+i: 0500:040600
+i: 0500:040610
+i: 0500:060c00
+i: 0500:050100
+i: 0500:050a00
+i: 0500:050b00
+i: 0500:041200
+i: 5601:000000
+i: 0412:000000
+i: 09af:000000
+i: 0919:000000
+i: 4abf:000000
+i: 0628:00efd3
+i: 0628:00efd1
+i: 0628:00efd7
+i: 0652:000000
+i: 4ae1:13
+i: 0500:042740
+i: 0500:032920
+i: 0647:000001
+i: 093b:000000
+i: 1861:000000
+i: 09c7:000000
+i: 0500:021700
+i: 0100:00a821
+i: 1811:000000
+i: 0500:022610
+i: 0500:032940
+i: 0500:032830
+i: 0500:043330
+i: 0500:042800
+i: 0500:040f40
+i: 0500:030b00
+i: 0628:000000
+i: 0647:000000
+i: 0604:0000f9
+i: 0604:0000d2
+i: 0604:0000e8
+i: 0d0f:000000
+i: 0d70:000000
+i: 0d96:000000
+i: 0666:000000
+i: 0d06:000000
+i: 0d06:0000c0
+i: 0560:000000
+i: 0602:000032
+i: 0634:000000
+i: 0608:000000
+i: 1819:00006d:2460|tntsat|tf 1
+i: 1819:00006d:232b|tntsat|tf1 sÃ£Â©ries films
+i: 1819:00006d:245a|tntsat|france 2 hd
+i: 1819:00006d:245d|tntsat|france 3 sat hd
+i: 1819:00006d:21fd|tntsat|france 4 hd
+i: 1819:00006d:2330l|tntsat|france 5 hd
+i: 1819:00006d:2457|tntsat|m6 hd
+i: 1819:00006d:1f4b|tntsat|6ter
+i: 1819:00006d:2f6c|tntsat|cherie 25
+i: 1819:00006d:2f6d|tntsat|cherie 25
+i: 1819:00006d:2f71|tntsat|nrj 12 hd
+i: 1819:00006d:2f72|tntsat|nrj 12
+i: 1819:00006d:2014|tntsat|tfx
+i: 1819:00006d:2015|tntsat|tmc hd
+i: 1819:00006d:2076|tntsat|lÃ¢Â´equipe tv
+i: 1819:00006d:2458|tntsat|w9 hd
+i: 1819:00006d:2334|tntsat|c8 hd
+i: 1819:00006d:2335|tntsat|cstar hd
+i: 1819:00006d:2011|tntsat|rmc dÃ£Â©couverte
+i: 1819:00006d:2075|tntsat|rmc story
+i: 1819:00006d:2081|tntsat|arte hd
+i: 1819:00006d:2083|tntsat|gulli
+i: 1819:00006d:2654|tntsat|via stella
+i: 1819:00006d:206d|tntsat|bfm tv hd
+i: 1819:00006d:1f45|tntsat|franceinfo: hd
+i: 1811:003311:1f45|tntsat|franceinfo: hd
+i: 1811:003311:1f4b|tntsat|6ter
+i: 1811:003311:2011|tntsat|rmc dÃ£Â©couverte
+i: 1811:003311:2014|tntsat|tfx
+i: 1811:003311:2015|tntsat|tmc hd
+i: 1811:003311:206d|tntsat|bfm tv hd
+i: 1811:003311:2075|tntsat|rmc story
+i: 1811:003311:2076|tntsat|lÃ¢Â´equipe tv
+i: 1811:003311:2081|tntsat|arte hd
+i: 1811:003311:2083|tntsat|gulli
+i: 1811:003311:2457|tntsat|m6 hd
+i: 1811:003311:2458|tntsat|w9 hd
+i: 1811:003311:245a|tntsat|france 2 hd
+i: 1811:003311:245d|tntsat|france 3 sat hd
+i: 1811:003311:2460|tntsat|tf 1
+i: 1811:003311:232b|tntsat|tf1 sÃ£Â©ries films
+i: 1811:003311:2330|tntsat|france 5 hd
+i: 1811:003311:2334|tntsat|c8 hd
+i: 1811:003311:2335|tntsat|cstar hd
+i: 1811:003311:21fd|tntsat|france 4 hd
+i: 1811:003311:2f6c|tntsat|cherie 25
+i: 1811:003311:2f6d|tntsat|cherie 25
+i: 1811:003311:2f71|tntsat|nrj 12 hd
+i: 1811:003311:2f72|tntsat|nrj 12
+#sky germany
+l:098d:000000:0093  #  sky one hd
+l:098d:000000:006e  #  sky atlantic hd
+l:098d:000000:0008  #  sky cinema fun
+l:098d:000000:0074  #  sky cinema action hd
+l:098d:000000:006b  #  sky cinema best of hd
+l:098d:000000:0204  #  sky cinema classics
+l:098d:000000:008b  #  sky cinema family hd
+l:098d:000000:0087  #  sky cinema premieren +24 hd
+l:098d:000000:0083  #  sky cinema premieren hd
+l:098d:000000:006f  #  sky cinema special hd
+l:098d:000000:000b  #  sky cinema thriller hd
+l:098d:000000:000e  #  sky comedy hd
+l:098d:000000:0017  #  sky krimi hd
+l:098d:000000:000d  #  sky crime hd
+l:098d:000000:000f  #  sky nature hd
+l:098d:000000:0010  #  sky documentaries hd
+l:098d:000000:0192  #  crime + investigation
+l:098d:000000:007f  #  13th street hd
+l:098d:000000:007c  #  fox hd
+l:098d:000000:0065  #  universal tv hd
+l:098d:000000:007e  #  syfy hd
+l:098d:000000:0075  #  sky serien & shows hd
+l:098d:000000:0088  #  tnt comedy hd
+l:098d:000000:008c  #  tnt film hd
+l:098d:000000:007b  #  tnt serie hd
+l:098d:000000:0080  #  e! entertainm. hd
+l:098d:000000:0089  #  spiegel geschichte hd
+l:098d:000000:0082  #  discovery hd
+l:098d:000000:0071  #  history channel hd
+l:098d:000000:0076  #  nat geo wild hd
+l:098d:000000:0070  #  natgeo hd
+l:098d:000000:0031  #  spiegel tv wissen
+l:098d:000000:001c  #  boomerang
+l:098d:000000:0194  #  cartoon network
+l:098d:000000:0018  #  classica
+l:098d:000000:0016  #  heimatkanal
+l:098d:000000:0013  #  junior
+l:098d:000000:0196  #  kinowelt tv
+l:098d:000000:001b  #  nicktoons
+l:098d:000000:0206  #  romance tv
+l:098d:000000:0191  #  jukebox
+l:098d:000000:006d  #  eurosport 2 hd
+l:098d:000000:0084  #  dazn 1 hd
+l:098d:000000:007a  #  dazn 2 hd
+l:098d:000000:0011  #  sky sport f1 hd
+l:098d:000000:00a8  #  motorvision tv
+l:098d:000000:006c  #  sky sport news hd
+l:098d:000000:0081  #  sky sport 1 hd
+l:098d:000000:0072  #  sky sport 2 hd
+l:098d:000000:010c  #  sky sport 3 hd
+l:098d:000000:0116  #  sky sport 4 hd
+l:098d:000000:0120  #  sky sport 5 hd
+l:098d:000000:012a  #  sky sport 6 hd
+l:098d:000000:0134  #  sky sport 7 hd
+l:098d:000000:013e  #  sky sport 8 hd
+l:098d:000000:0148  #  sky sport 9 hd
+l:098d:000000:0152  #  sky sport 10 hd
+l:098d:000000:0102  #  sky sport 11 hd
+l:098d:000000:017d  #  sky sport 12 hd
+l:098d:000000:0182  #  sky sport 13 hd
+l:098d:000000:0187  #  sky sport 14 hd
+l:098d:000000:0069  #  sky sport bundesliga 1 hd
+l:098d:000000:010b  #  sky sport bundesliga 2 hd
+l:098d:000000:0115  #  sky sport bundesliga 3 hd
+l:098d:000000:011f  #  sky sport bundesliga 4 hd
+l:098d:000000:0129  #  sky sport bundesliga 5 hd
+l:098d:000000:0133  #  sky sport bundesliga 6 hd
+l:098d:000000:013d  #  sky sport bundesliga 7 hd
+l:098d:000000:0147  #  sky sport bundesliga 8 hd
+l:098d:000000:0151  #  sky sport bundesliga 9 hd
+l:098d:000000:0101  #  sky sport bundesliga 10 hd
+l:098d:000000:010e  #  eurosport360hd 1
+l:098d:000000:0118  #  eurosport360hd 2
+l:098d:000000:0122  #  eurosport360hd 3
+l:098d:000000:012c  #  eurosport360hd 4
+l:098d:000000:0136  #  eurosport360hd 5
+l:098d:000000:0140  #  eurosport360hd 6
+l:098d:000000:014a  #  eurosport360hd 7
+l:098d:000000:0154  #  eurosport360hd 8
+l:098d:000000:0104  #  eurosport360hd 9
+l:098d:000000:008f  #  sky sport austria 1 hd
+l:098d:000000:0149  #  sky sport austria 2 hd
+l:098d:000000:0153  #  sky sport austria 3 hd
+l:098d:000000:0103  #  sky sport austria 4 hd
+l:098d:000000:0146  #  sky sport austria 5 hd
+l:098d:000000:0156  #  sky sport austria 6 hd
+l:098d:000000:0105  #  sky sport austria 7 hd
+### add ###
+a: ::0028:0102::: 2600:000000:1fff ;ert hd
+a: ::000a:0104::: 2600:000000:1fff ;ert 1
+a: ::0014:0100::: 2600:000000:1fff ;ert 2
+### emu_key ###
+p: 0e00:000000 ;powervu
+p: 2600:000000 ;biss
+p: 2602:000000 ;biss2
+p: 1010:000000 ;tandberg
+### priority ####
+p: 4aee:000001 ;polaris 1,9e
+p: 0500:051a00:044f ;love nature 4k|13.0Â°e
+p: 0500:051a10:0450 ;myzen 4k|13.0Â°e
+p: 0500:051a10:11fc ;museum 4k|13.0Â°e
+p: 1884:000000:116f ;canal+ 4k ultra hd|13.0Â°e
+p: 183e:000000:4532 ;rai 4k|13.0Â°e
+p: 0100:00006d:01c5 ;automoto la chaine|13.0Â°e
+p: 0100:00006d:01c6 ;animaux|13.0Â°e
+p: 0100:00006d:01c7 ;chasse et peche|13.0Â°e
+p: 0100:00006d:01ca ;trek|13.0Â°e
+p: 0100:00006d:01cf ;science et vie|13.0Â°e
+# total tv
+#p: 091f:000000
+# csat
+p: 1811:003311
+# movistar+
+p: 1810:000000
+p: 0648:000000:101d
+p: 0648:000000:1013
+p: 1843:000000:183d
+p: 1843:000000:29d1
+p: 1843:000000:29d0
+p: 1843:000000:10cf
+p: 1843:000000:10d1
+p: 1843:000000:296d
+p: 1843:000000:2969
+p: 1843:000000:296a
+p: 1843:000000:2968
+p: 1843:000000:29d3
+p: 1843:000000:29cc
+p: 1843:000000:296b
+p: 1843:000000:29d2
+p: 1843:000000:296c
+p: 1843:000000:296f
+p: 1843:000000:296e
+p: 1843:000000:6fec
+m: 1817:00006a 0100:00006a
+m: 1818:00006c 0100:00006c
+m: 1819:00006d 0100:00006d
+m: 1818:00006c:52ec 0100:00006c:52ec
+m: 4aee:000001 4aee
+j: 0100:00006c:1bff:07ae 0624:000000:0ace
